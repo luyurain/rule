@@ -136,21 +136,3 @@ RT纪录,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 TalkTV,https://live-talktv-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/talktv-live/index.m3u8
 TRT世界,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 台湾Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-
-douyu一起看,#genre#
-【贝爷MAX厅】科幻 动作 经典 喜剧,http://maomao.kandiantv.cn/douyu1.php?id=4332
-【女神金】60帧 极致蓝光 刀刀陪看,http://maomao.kandiantv.cn/douyu1.php?id=747764
-【美食】舌尖上的火锅 美食不可辜负,http://maomao.kandiantv.cn/douyu1.php?id=9650849
-【刀刀de食堂】美食家 点播 伊太刀刀,http://maomao.kandiantv.cn/douyu1.php?id=6733133
-懒猫 美食家 点播,http://maomao.kandiantv.cn/douyu1.php?id=260322
-蓝翔新三国,http://maomao.kandiantv.cn/douyu1.php?id=5908256
-古灵精探,http://maomao.kandiantv.cn/douyu1.php?id=11656555
-爱情公寓,http://maomao.kandiantv.cn/douyu1.php?id=6566658
-庆余年-1,http://maomao.kandiantv.cn/douyu1.php?id=5062195
-庆余年-2,http://maomao.kandiantv.cn/douyu1.php?id=7489563
-杀死燕双鹰活捉狄仁杰,http://maomao.kandiantv.cn/douyu1.php?id=3439096
-元芳到底看不看,http://maomao.kandiantv.cn/douyu1.php?id=6027991
-在下元芳，手中幽兰剑~~,http://maomao.kandiantv.cn/douyu1.php?id=11578014
-【燕双鹰】我不是元芳,http://maomao.kandiantv.cn/douyu1.php?id=11868246
-漫威主线剧情,http://maomao.kandiantv.cn/douyu1.php?id=6140589
-神话,http://maomao.kandiantv.cn/douyu1.php?id=11646306
