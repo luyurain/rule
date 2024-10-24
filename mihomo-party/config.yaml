@@ -9,12 +9,6 @@ proxy-groups:
     proxies:
       - 节点选择
       - DIRECT
-  - name: OpenAi
-    icon: https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Bot.png
-    type: select
-    proxies:
-      - 节点选择
-      - DIRECT
   - name: 油管视频
     icon: https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/YouTube.png
     type: select
